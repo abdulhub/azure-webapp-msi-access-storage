@@ -1,0 +1,1 @@
+# azure-webapp-msi-access-storage
